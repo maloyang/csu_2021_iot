@@ -44,58 +44,60 @@
     - 以顏色進行數量之區隔
 
 ----
-## Week 06
+## Week 06 (10/13)
 
 - 寄送email
     - 以gmail進行email發送
 
 
-## Week 07
+## Week 07 (10/17)
 
 - Python發送Line訊息之應用
 
 
-## Week 08
-
-- 期中考
-
-
-## Week 09
+## Week 08 (10/22)
 
 - ThingSpeak IO 儀錶板
 
-## Week 10
+
+## Week 09 (10/29)
 
 - MQTT實作遠端監控
 
-## Week 11
+## Week 10 (11/3)
+
+- 期中考
+
+## Week 11 (11/10)
 
 - MQTT實作遠端控制應用
     - 以智慧居家電燈控制為例
 
-## Week 12
+## Week 12 (11/19)
 
 - 空氣品質IoT監測
 - IoT資訊使用Line通報
 
-## Week 13
+## Week 13 (11/23)
 
 - 空氣品質IoT監測趨勢視覺化
 
-## Week 14
+## Week 14 (12/4)
 
 - 空氣品質IoT監測趨勢以地圖呈現 --> 期末考題
 
-## Week 15
+## Week 15 (12/8)
 
 - PM2.5監測資訊分析視覺化
 
-## Week 16
+## Week 16 (12/17)
 
 - 整合實作
     - IoT監測資訊以Line發送警報
 
-## Week 17
+## Week 17 (12/21)
+
+## Week 18 (12/28)
 
 - 期末考
 
